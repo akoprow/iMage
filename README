@@ -1,6 +1,14 @@
 -----------------------------------------------------------------
 iMage is an web image viewer written in Opa (http://opalang.org).
+
+Author: Adam Koprowski <Adam.Koprowski@mlstate.com>
 -----------------------------------------------------------------
+
+Compilation & usage
+-------------------
+- put some images you want to browse in the './imgs' directory
+- compile & run with: 'make run'
+- go to 'localhost:8080' and have fun :)
 
 License
 -------
